@@ -17,8 +17,8 @@
   "author": "{{ authors }}",
   "license": "MIT",
   "devDependencies": {
-    "copy-webpack-plugin": "^5.0.3",
+    "copy-webpack-plugin": "^14.0.0",
     "exports-loader": "^0.7.0",
-    "shelljs": "^0.8.3"
+    "shelljs": "^0.8.5"
   }
 }
